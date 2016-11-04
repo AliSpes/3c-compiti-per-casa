@@ -8,7 +8,7 @@ int main()
   int i;
   char ripetizione;
 
-cout << "\n*******************************************************************************\n";
+cout << "\n********************************************************************************\n";
 cout << " ESERCIZIO 31 PAGINA 69 \n\n";
 cout << " Scrivi un programma in C++ che dato un numero intero inferiore di 1000, si \n desidera sapere il numero di centinaia, decine e unita' che contiene\n";
 cout << " (ad esempio 123 e' composto da un centinaio, due decine e tre unita')\n";
