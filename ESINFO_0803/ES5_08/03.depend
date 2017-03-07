@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488904540 source:c:\users\alice\desktop\03\es5_08\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
