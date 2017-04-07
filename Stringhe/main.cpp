@@ -6,20 +6,20 @@ using namespace std;
 int main()
 {
     char nome[6];
-    nome[0] = 'A';
+    nome[0] = 'E';
     nome[1] = 'l';
     nome[2] = 'i';
-    nome[3] = 'c';
-    nome[4] = 'e';
+    nome[3] = 's';
+    nome[4] = 'a';
     nome[5] = '\0';
 
     cout<< nome << endl;;
-    char cognome[9] = {'R','o','s','s','e','t','t','i','\0'};
+    char cognome[9] = {'R','o','s','s','e','t','t','0','\0'};
     cout << cognome << endl;
     cout << nome << " " << cognome << endl;
-    char indirizzo[] = "Via O. Zen 46, Marghera";
+    char indirizzo[] = "Via gianni 45, Marghera";
     cout << indirizzo << endl;
-    string telefono = "3421439084";
+    string telefono = "3456739489";
     cout << telefono << endl;
     return 0;
 }
