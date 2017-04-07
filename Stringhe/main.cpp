@@ -14,7 +14,7 @@ int main()
     nome[5] = '\0';
 
     cout<< nome << endl;;
-    char cognome[9] = {'R','o','s','s','e','t','t','0','\0'};
+    char cognome[8] = {'R','o','s','e','t','t','a','\0'};
     cout << cognome << endl;
     cout << nome << " " << cognome << endl;
     char indirizzo[] = "Via gianni 45, Marghera";
